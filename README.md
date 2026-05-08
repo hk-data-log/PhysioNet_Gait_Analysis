@@ -1,4 +1,4 @@
-# 🏃‍♂️ PhysioNet 보행 EMG 데이터 분석 (실시간 삽질 중 🚧)
+# 🏃‍♂️ PhysioNet 보행 EMG 데이터 분석 (최종업로드 완료 🚧)
 
 ## 📌 프로젝트 상태: 분석 및 최적화 진행 중 (In Progress)
 본 프로젝트는 **PhysioNet Gait in Elderly Adults 데이터셋**을 정복하기 위해 매일 머리를 싸매고 있는 기록입니다. 
